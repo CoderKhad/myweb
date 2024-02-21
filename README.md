@@ -63,3 +63,4 @@
 
 </html>
 <h2>Fun Fact</h2>
+ I love swimming both as a hobby and a sport, going to the beach to relax on the ocean listening to the sound of the waves and birds or take strolls along the sand. I like to play video games(CODM).
