@@ -45,3 +45,21 @@
         .button:hover {
             background-color: #222;
         }
+    </style>
+</head>
+
+<body>
+    <header>
+        <h1>Hi! I'm Khadija Fleming</h1>
+        <p>Aspiring Software Engineer</p>
+    </header>
+    <section>
+        <h2>About Me</h2>
+        <p>I have knowledge in C, C++, HTML, and I'm now learning Python at Rutgers University. I earned my Associate Degree in Science & Mathematics in my local hometown college. I love traveling and learning new things.</p>
+    </section>
+    <section>
+        <h2>My Passion</h2>
+        <p>I'm passionate about technology and the way it's evolving. I'm also thinking about getting into data science to deepen my knowledege of domains.
+
+</html>
+<h2>Fun Fact</h2>
