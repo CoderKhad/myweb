@@ -10,8 +10,8 @@
         }
 
         header {
-            background-color: #333;
-            color: #fff;
+            background-color: #f333;
+            color: whhite;
             text-align: center;
             padding: 20px;
         }
