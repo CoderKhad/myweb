@@ -5,51 +5,51 @@
     <title>Khadija Fleming - Aspiring Software Engineer</title>
     <style>
         body {
-            font-family: inter.class, sans-serif;
-            background-color: #f2f2f2;
+            background-color: black;
+            color: neonBlue;
+         font-family: Arial;
         }
 
         header {
-            background-color: #f333;
+            background-color: #333;
             color: whhite;
             text-align: center;
-            padding: 20px;
+            padding: 10px;
         }
 
         section {
-            margin-top: 50px;
+            padding: 20px;
+        }
+        section-title{
+        font-size: 24px;
+        font-weight: bold;
+        }
+        section-content{
+        font-size: 18px;
         }
 
-        h1 {
-            font-size: 36px;
+        instagram-link{
+        display: inline-block;
+        margin-top: 20px;
+        }
+        instagram-logo{
+        width: 20px;
+        height: 30px;
+        background-image: url("(<ion-icon name="logo-instagram"></ion-icon>");
+        background-size: cover;
         }
 
-        p {
-            font-size: 18px;
+        contact-info{
+        font-size: 16px;
+        margin-top: 20px;
         }
 
-        a {
-            color: #333;
-            text-decoration: none;
+        contact-email{
+        color: blue;
         }
 
-        .button {
-            background-color: #333;
-            color: #fff;
-            padding: 10px 20px;
-            border: none;
-            border-radius: 5px;
-            cursor: pointer;
-        }
-
-        .button:hover {
-            background-color: #222;
-        }
-    </style>
+</style>
 </head>
-<ion-icon name="logo-instagram"></ion-icon>
-<script type="module" src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.esm.js"></script>
-<script nomodule src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.js"></script>
 <body>
     <header>
         <h1>Hi! I'm Khadija Fleming</h1>
