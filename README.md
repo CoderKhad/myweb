@@ -44,25 +44,41 @@
         margin-top: 20px;
         }
 
-        contact-email{
+        contact-info {
+        font-size: 16px;
+        margin-top: 20px;
+        }
+
+        contact-email {
         color: blue;
         }
 
 </style>
 </head>
 <body>
-    <header>
-        <h1>Hi! I'm Khadija Fleming</h1>
-        <p>Aspiring Software Engineer</p>
-    </header>
-    <section>
-        <h2>About Me</h2>
-        <p>I have knowledge in C, C++, HTML, and I'm now learning Python at Rutgers University. I earned my Associate Degree in Science & Mathematics in my local hometown college. I love traveling and learning new things.</p>
-    </section>
-    <section>
-        <h2>My Passion</h2>
-        <p>I'm passionate about technology and the way it's evolving. I'm also thinking about getting into data science to deepen my knowledege of domains.
-
+<div class="header">
+<h1>Khadija Fleming</h1>
+<p>Aspiring Software Engineer</p>
+</div>
+<div class="section">
+<div class="section-title">About Me</div>
+<div class="section-content">
+Hi! I'm Khadija Fleming. I'm an aspiring software engineer with knowledge in C, C++, HTML, and currently learning Python at Rutgers University. I graduated with an associate degree in Science and Mathematics in 2022. I love learning new things and am open to discussions.
+</div>
+</div>
+<div class="section">
+<div class="section-title">Fun Facts</div>
+<div class="section-content">
+I love swimming, both as a hobby and sport. I enjoy going to the beach, taking walks, or relaxing while listening to the waves break and birds sing. I also play CODM and hit the gym in my spare time.
+</div>
+</div>
+<div class="section">
+<div class="section-title">Connect with Me</div>
+<div class="section-content">
+<a href="(link unavailable)"><span class="instagram-link">Instagram</span><span class="instagram-logo"></span></a>
+<p class="contact-info">Email: <a href="mailto:khadijaflem14@(link unavailable)">khadijaflem14@(link unavailable)</a></p>
+</div>
+</div>
+</body>
 </html>
-<h2>Fun Fact</h2>
- I love swimming both as a hobby and a sport, going to the beach to relax on the ocean listening to the sound of the waves and birds or take strolls along the sand. I like to play video games(CODM).
+
