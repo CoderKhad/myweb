@@ -75,7 +75,7 @@ I love swimming, both as a hobby and sport. I enjoy going to the beach, taking w
 <div class="section">
 <div class="section-title">Connect with Me</div>
 <div class="section-content">
-<a href="[(link unavailable](https://www.instagram.com/kx.dija/)"><span class="instagram-link">Instagram</span><span class="instagram-logo"></span></a>
+<a href="[@kx.dija](https://www.instagram.com/kx.dija/)"><span class="instagram-link">Instagram</span><span class="instagram-logo"></span></a>
 <p class="contact-info">Email: <a href="mailto:khadijaflem14@(link unavailable)">khadijaflem14@gmail.com</a></p>
 </div>
 </div>
