@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>De'Aira (Khadija) Fleming - Personal Website</title>
+</head>
+<body>
+	<!-- Header Section -->
+	<header>
+		<h1>De'Aira (Khadija) Fleming</h1>
+	</header>
+	
+	<!-- About Me Section -->
+	<section id="about-me">
+		<h2>About Me</h2>
+		<p>I'm an aspiring software engineer with knowledge in C, C++, HTML, Python, and currently learning Java at Rutgers University.</p>
+		<p>I graduated with an associate degree in Science and Mathematics in 2022.</p>
+		<p>I love learning new things and am open to discussions.</p>
+	</section>
+	
+	<!-- Social Media Section -->
+	<section id="social-media">
+		<h2>My Social Medias</h2>
+		<ul>
+			<li><a href="https://www.instagram.com/kx.dija/">Instagram</a></li>
+			<li><a href="mailto:khadijaflem14@gmail.com">Email</a></li>
+		</ul>
+	</section>
+	
+	<!-- Fun Facts Section -->
+	<section id="fun-facts">
+		<h2>Fun Facts</h2>
+		<ul>
+			<li>I love swimming, both as a hobby and sport.</li>
+			<li>I enjoy going to the beach, taking walks, or relaxing while listening to the waves break and birds sing.</li>
+			<li>I also play CODM and hit the gym in my spare time.</li>
+			<li>If I’m not getting my beauty rest, I’m definitely trying to debug a code I’ve been working on.</li>
+		</ul>
+	</section>
+	
+	<!-- Education Section -->
+	<section id="education">
+		<h2>Education</h2>
+		<p>Rutgers University - Currently studying Java</p>
+		<p>Associate degree in Science and Mathematics - 2022</p>
+	</section>
+	
+	<!-- Contact Section -->
+	<section id="contact">
+		<h2>Get in Touch</h2>
+		<p>Feel free to contact me on social media or via email!</p>
+	</section>
+</body>
+</html>
